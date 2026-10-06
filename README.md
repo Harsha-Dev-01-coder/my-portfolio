@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Portfolio
 
-## Getting Started
+A personal developer portfolio built with modern frontend technologies.
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+
+## 📁 Project Structure
+
+```text
+src/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── components/
+│   ├── Hero.tsx
+│   └── Projects.tsx
+│
+└── data/
+    └── projects.ts
+
+✨ Day 1
+
+Initial Setup
+
+* Created the portfolio using Next.js
+* Configured TypeScript
+* Configured Tailwind CSS
+* Set up the Next.js App Router
+* Created the initial project structure
+
+Hero Section
+
+Built the initial portfolio Hero section with:
+
+* Frontend Developer introduction
+* Personal introduction
+* Projects button
+* GitHub button
+
+Projects Data
+
+Created a typed project data structure using TypeScript.
+
+The project data includes:
+
+* Project title
+* Description
+* Technologies
+* GitHub URL
+* Live demo URL
+
+Movie Explorer
+
+Added my Movie Explorer project to the portfolio.
+
+Technologies used in the project:
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+Git & GitHub
+
+* Initialized Git repository
+* Created the initial portfolio commit
+* Created a GitHub repository
+* Connected the local portfolio repository to GitHub
+
+🛠️ Getting Started
+
+Clone the repository:
+
+git clone https://github.com/Harsha-Dev-01-coder/my-portfolio.git
+
+Move into the project:
+
+cd my-portfolio
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📌 Current Status
 
-## Learn More
+The portfolio currently contains the initial structure, Hero section, Projects section, and Movie Explorer project.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+More sections and improvements will be added as development continues.
