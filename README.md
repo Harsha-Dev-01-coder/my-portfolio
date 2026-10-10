@@ -1,82 +1,63 @@
 # My Portfolio
 
-A personal developer portfolio built with modern frontend technologies.
+A personal developer portfolio built with Next.js, TypeScript, and Tailwind CSS to showcase my frontend development projects.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Git & GitHub
+- Git and GitHub
 
-## 📁 Project Structure
+## Projects
 
-```text
-src/
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-│
-├── components/
-│   ├── Hero.tsx
-│   └── Projects.tsx
-│
-└── data/
-    └── projects.ts
+### 1. Movie Explorer
 
-✨ Day 1
+A movie discovery application that allows users to explore movies, search for titles, view movie details, and manage their favorite movies.
 
-Initial Setup
+**Technologies:**
+- React
+- TypeScript
+- Tailwind CSS
+- React Router
+- Axios
+- TMDB API
+- Vite
 
-* Created the portfolio using Next.js
-* Configured TypeScript
-* Configured Tailwind CSS
-* Set up the Next.js App Router
-* Created the initial project structure
+**Links:**
+- [GitHub Repository](https://github.com/Harsha-Dev-01-coder/movie-explorer)
+- [Live Demo](https://harsha-dev-01-coder.github.io/movie-explorer/)
 
-Hero Section
+### 2. Advanced Task Manager
 
-Built the initial portfolio Hero section with:
+A responsive task-management dashboard for organizing tasks, managing priorities, and tracking task statistics.
 
-* Frontend Developer introduction
-* Personal introduction
-* Projects button
-* GitHub button
+**Technologies:**
+- React
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit
+- React Router
+- Vite
 
-Projects Data
+**Features:**
+- Task creation, editing, and deletion
+- Task search and filtering
+- Task sorting
+- Priority and status management
+- Dashboard statistics
+- Browser-based data persistence
+- Responsive dashboard layout
 
-Created a typed project data structure using TypeScript.
+**Links:**
+- [GitHub Repository](https://github.com/Harsha-Dev-01-coder/advanced-task-manager)
+- [Live Demo](https://harsha-dev-01-coder.github.io/advanced-task-manager/)
 
-The project data includes:
-
-* Project title
-* Description
-* Technologies
-* GitHub URL
-* Live demo URL
-
-Movie Explorer
-
-Added my Movie Explorer project to the portfolio.
-
-Technologies used in the project:
-
-* Next.js
-* TypeScript
-* Tailwind CSS
-
-Git & GitHub
-
-* Initialized Git repository
-* Created the initial portfolio commit
-* Created a GitHub repository
-* Connected the local portfolio repository to GitHub
-
-🛠️ Getting Started
+## Getting Started
 
 Clone the repository:
 
+```bash
 git clone https://github.com/Harsha-Dev-01-coder/my-portfolio.git
 
 Move into the project:
