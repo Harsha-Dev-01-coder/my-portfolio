@@ -70,7 +70,46 @@ export const projects: Project[] = [
     githubUrl:
       "https://github.com/Harsha-Dev-01-coder/advanced-task-manager",
 
-    liveUrl: "https://harsha-dev-01-coder.github.io/advanced-task-manager/",
+    liveUrl:
+      "https://harsha-dev-01-coder.github.io/advanced-task-manager/",
+  },
 
+  {
+    id: 3,
+    title: "E-Commerce Platform",
+
+    description:
+      "A full-stack e-commerce application built with Next.js, featuring product discovery, shopping cart management, user authentication, order processing, and administration.",
+
+    technologies: [
+      "Next.js 16",
+      "React 19",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "Supabase",
+      "PostgreSQL",
+      "React Hooks",
+      "Vercel",
+    ],
+
+    features: [
+      "Product catalog and product details",
+      "Product search, filtering, and sorting",
+      "Shopping cart and quantity management",
+      "Wishlist management",
+      "User authentication and profiles",
+      "Shipping address management",
+      "Checkout and order management",
+      "Order history",
+      "Admin product and order management",
+      "Responsive interface",
+    ],
+
+    githubUrl:
+      "https://github.com/Harsha-Dev-01-coder/ecommerce-platform",
+
+    liveUrl:
+      "https://ecommerce-platform-ten-gamma.vercel.app/",
   },
 ];
