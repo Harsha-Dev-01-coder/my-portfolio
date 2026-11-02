@@ -1,83 +1,65 @@
-# My Portfolio
+# Harsha | Frontend Developer
 
-A personal developer portfolio built with Next.js, TypeScript, and Tailwind CSS to showcase my frontend development projects.
+A personal developer portfolio showcasing my projects, technical skills, and experience building modern web applications.
+
+## About
+
+I'm Harsha, a self-taught frontend developer passionate about building responsive, user-friendly, and modern web applications.
+
+I enjoy turning ideas into functional products and continuously improving my development skills.
 
 ## Tech Stack
 
-- Next.js
+- Next.js 16
+- React 19
 - TypeScript
 - Tailwind CSS
-- Git and GitHub
+- Motion
+- Git & GitHub
+- Vercel
 
-## Projects
+## Featured Projects
 
 ### 1. Movie Explorer
 
-A movie discovery application that allows users to explore movies, search for titles, view movie details, and manage their favorite movies.
+A movie discovery application for exploring popular, top-rated, and now-playing movies.
 
-**Technologies:**
-- React
-- TypeScript
-- Tailwind CSS
-- React Router
-- Axios
-- TMDB API
-- Vite
+- Search for movies
+- Browse movie collections
+- View movie details
+- Manage favorite movies
 
-**Links:**
+**Tech:** React, TypeScript, Tailwind CSS, React Router, Axios, TMDB API.
+
 - [GitHub Repository](https://github.com/Harsha-Dev-01-coder/movie-explorer)
-- [Live Demo](https://harsha-dev-01-coder.github.io/movie-explorer/)
 
 ### 2. Advanced Task Manager
 
-A responsive task-management dashboard for organizing tasks, managing priorities, and tracking task statistics.
+A responsive task-management dashboard for organizing and managing tasks.
 
-**Technologies:**
-- React
-- TypeScript
-- Tailwind CSS
-- Redux Toolkit
-- React Router
-- Vite
-
-**Features:**
-- Task creation, editing, and deletion
-- Task search and filtering
-- Task sorting
-- Priority and status management
+- Create, update, and delete tasks
+- Search and filter tasks
+- Priority management
 - Dashboard statistics
-- Browser-based data persistence
-- Responsive dashboard layout
 
-**Links:**
+**Tech:** React, TypeScript, Tailwind CSS, Redux Toolkit, React Router.
+
 - [GitHub Repository](https://github.com/Harsha-Dev-01-coder/advanced-task-manager)
-- [Live Demo](https://harsha-dev-01-coder.github.io/advanced-task-manager/)
 
-## Getting Started
+### 3. E-Commerce Platform
 
-Clone the repository:
+A full-stack e-commerce application with product discovery, shopping cart, authentication, and order management.
 
-```bash
-git clone https://github.com/Harsha-Dev-01-coder/my-portfolio.git
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, Supabase, PostgreSQL.
 
-Move into the project:
+- [Live Demo](https://ecommerce-platform-ten-gamma.vercel.app/)
+- [GitHub Repository](https://github.com/Harsha-Dev-01-coder/ecommerce-platform)
 
-cd my-portfolio
+## Contact
 
-Install dependencies:
+- **Email:** j.harshavardhan024@gmail.com
+- **GitHub:** https://github.com/Harsha-Dev-01-coder
 
-npm install
+## License
 
-Run the development server:
-
-npm run dev
-
-Open:
-
-http://localhost:3000
-
-📌 Current Status
-
-The portfolio currently contains the initial structure, Hero section, Projects section, and Movie Explorer project.
-
-More sections and improvements will be added as development continues.
+This project is open source and available under the MIT License.
